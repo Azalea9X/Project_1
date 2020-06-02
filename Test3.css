@@ -1,0 +1,15 @@
+/*Working CSS file*/
+/*Reset*/
+*, *~*, * + *, * > *{
+  box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+input[type="text"]{
+   width: 5%;
+}
+.input{
+   width: 12525%;
+}
+body{background-color: burlywood;}
